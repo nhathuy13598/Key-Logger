@@ -1,0 +1,24 @@
+[13.02.2019 11:34:31]
+Hook Started... Timer started
+
+[13.02.2019 11:35:01]
+Mail was not sent! Error code: 4
+
+[13.02.2019 11:35:32]
+Mail was not sent! Error code: 4
+
+[13.02.2019 11:36:01]
+<From SendMail> Return code: 4297856
+
+[13.02.2019 11:36:03]
+Mail was not sent! Error code: 4
+
+[13.02.2019 11:36:34]
+Mail was not sent! Error code: 4
+
+[13.02.2019 11:37:05]
+Mail was not sent! Error code: 4
+
+[13.02.2019 11:37:36]
+Mail was not sent! Error code: 4
+

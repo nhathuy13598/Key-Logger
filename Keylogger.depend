@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1550030242 source:c:\users\nhat huy\desktop\keylogger\main.cpp
+	<iostream>
+	<Windows.h>
+	"Helper.h"
+	"KeyConstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1550026840 c:\users\nhat huy\desktop\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1550026865 c:\users\nhat huy\desktop\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1550026886 c:\users\nhat huy\desktop\keylogger\base64.h
+	<vector>
+	<string>
+
+1549770690 c:\users\nhat huy\desktop\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1550027102 c:\users\nhat huy\desktop\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1550030907 c:\users\nhat huy\desktop\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1550030433 c:\users\nhat huy\desktop\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"KeyConstants.h"
+	"Timer.h"
+	"SendMail.h"
+
